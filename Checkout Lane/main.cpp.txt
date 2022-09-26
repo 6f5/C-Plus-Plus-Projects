@@ -1,6 +1,5 @@
 //==========================================================
 //
-// Title: Homework 6
 // Description:
 //   This C++ console application demonstrates a checkout
 // lane using a linked list. This application requires
