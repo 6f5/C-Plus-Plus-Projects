@@ -1,0 +1,11 @@
+Main Crop     Acres
+Onion         100
+Oats          100
+Lettuce       100
+Rice          100
+Peanuts       100
+Wheat         100
+Corn          100
+Cotton        100
+Tomato        100
+Watermelon    100
